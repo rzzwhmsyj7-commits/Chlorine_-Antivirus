@@ -13,7 +13,7 @@ Chlorine Antivirus V0.5.7
 https://www.icloud.com/shortcuts/daed2d26be6642b5aa8cfd69f47b4d6f
 Makes it so the screen locks so the
 Chlorine stops running and it can act
-better Compatibility for Chlorine V1.
+better Compatibility for Chlorine V1.3
 
 
 
