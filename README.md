@@ -7,6 +7,18 @@ For anyone desperate to fix their phone after running the chlorine virus? this i
 
 This will be regularly updated so no worries of this not working! feel free to inform about any bugs or glitches!
 
-Chlorine Antivirus V1
+
+Chlorine Antivirus V0.5.7
+
+https://www.icloud.com/shortcuts/daed2d26be6642b5aa8cfd69f47b4d6f
+Makes it so the screen locks so the
+Chlorine stops running and it can act
+better
+
+
+
+
+Chlorine Antivirus V0.5
 
 https://www.icloud.com/shortcuts/cd785401a72841db92de124dcbe1aeae
+Stops all effects for chlorine V0.5
